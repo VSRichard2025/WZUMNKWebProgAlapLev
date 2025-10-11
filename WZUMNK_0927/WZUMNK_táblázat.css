@@ -1,0 +1,42 @@
+/* WZUMNK_táblázat.css */
+
+
+.table{
+    width: 450px;
+    height: 525px;
+    border-collapse: collapse;
+    font-family: verdena, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.red{
+    background-color: #cccccc;
+    font-style: italic;
+    text-align: center;
+    height: 50px;
+
+}
+
+.green{
+    background-color: #99ff99;
+    text-align: center;
+    height: 50px;
+}
+.blue{
+    background-color: #99ccff;
+    text-align: center;
+    height: 50px;
+}
+.magenta{
+    background-color: #ff99ff;
+    text-align: center;
+    height: 50px;
+}       
+.scroll{
+overflow: visible;
+overflow-x: scroll;
+overflow-y: scroll;
+height: 150px;
+width: 150px;
+text-align: justify;
+
+}
