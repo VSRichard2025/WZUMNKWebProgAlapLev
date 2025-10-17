@@ -1,0 +1,49 @@
+
+.table {
+    width: 80%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+.table td {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+.fejléc1, .fejléc2, .fejléc3 {
+    border-bottom: 4px solid black;
+    background-color: #5c5c5c;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fejléc2, .fejléc3 {
+    border-top: 4px solid black;
+}
+
+.elsőoszlop {
+    border-right: 4px solid black;
+    background-color: #5c5c5c;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.sárga { background-color: yellow; }
+.magenta { background-color: magenta; }
+.zöld { background-color: limegreen; }
+.kék { background-color: deepskyblue; }
+.piros { background-color: red; }
+.orchid { background-color: orchid; }
+.szürke { background-color: rgb(105, 102, 102); }
+.fekete { background-color: black; color: white; }
+.navy { background-color: navy; color: white; }
+.oliva { background-color: olive; color: white; }
+.silver { background-color: silver; }
+.teal { background-color: teal; color: white; }
+.kitöltés { background-color: #000000; }
+
+.sárga, .magenta, .zöld, .kék, .piros, .orchid, .szürke, .fehér, .fekete, .barna, .cyan, .lime, .navy, .oliva, .silver, .teal {
+    text-align: start;
+}
